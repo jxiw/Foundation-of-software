@@ -46,6 +46,7 @@ Implement noral-order strategy and call-by-value evaluation strategy.
 
 	
 ###Project 3: Simply Typed Lambda Calculus
+Implement a type checker and a reducer for simply typed λ-terms.
 
 ###Project 4: STLC Extensions
 Add sum type
@@ -66,4 +67,4 @@ Add and Implement new evaluation rules to ensure progress and preservation holds
 
 
 ###Project 5: STLC with Type Reconstruction
-Implement a Hindley-Milner type inferencer for a modification of the simply typed $\lambda$-calculus with booleans, numbers and let:
+Implement a Hindley-Milner type inferencer for a modification of the simply typed λ-calculus with booleans, numbers and let:
