@@ -1,6 +1,6 @@
 [Course Website](https://fos2015.github.io)
 
-##Project 1: The NB Language
+## Project 1: The NB Language
 
 	t  ::= "true"                   terms
      | "false"
@@ -19,7 +19,7 @@
      
 Implement term parser that recognizes this language and Implement reduce method which performs one step of the evaluation
 
-##Project 2: Untyped Lambda Calculus
+## Project 2: Untyped Lambda Calculus
 
 	t ::= ident              terms
     | "\" ident "." t
@@ -46,10 +46,10 @@ Evaluation Rules:
 	
 Implement noral-order strategy and call-by-value evaluation strategy.
 
-##Project 3: Simply Typed Lambda Calculus
+## Project 3: Simply Typed Lambda Calculus
 Implement a type checker and a reducer for simply typed λ-terms.
 
-##Project 4: STLC Extensions
+## Project 4: STLC Extensions
 Add sum type
 
 	t ::= ...                                                terms
@@ -66,7 +66,7 @@ Add sum type
 
 Add and Implement new evaluation rules to ensure progress and preservation holds.
 
-##Project 5: STLC with Type Reconstruction
+## Project 5: STLC with Type Reconstruction
 Implement a Hindley-Milner type inferencer for a modification of the simply typed λ-calculus with booleans, numbers and let-polymorphism.
 
 Phase 1: Collecting constraints
